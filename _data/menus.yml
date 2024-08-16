@@ -1,0 +1,21 @@
+main:
+  - name: "Advocacia"
+    url: "/services/"
+    weight: 2
+  - name: "Contabilidade"
+    url: "/team/"
+    weight: 3
+  - name: "Sobre nós"
+    url: "/about/"
+    weight: 4
+  - name: "Contato"
+    url: "/contact/"
+    weight: 5
+
+footer:
+  - name: "Início"
+    url: "/mihhalvess/"
+    weight: 1
+  - name: "Contato"
+    url: "/contact/"
+    weight: 2
