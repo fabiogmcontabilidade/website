@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Profissional Especializado",
+    "description": "Nosso escritório é comprometido com a excelência. Dedicamos toda nossa energia para oferecer soluções eficazes e proporcionar tranquilidade aos nossos clientes que necessitam de nosso suporte.
+    ",
+    "image": {
+      "url": "images/features/medalha.jpg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Atendimento Personalizado",
+    "description": "Você não é – e nunca será – apenas mais um cliente. Cada história importa e nós sentimos na pele a dor de nossos clientes. Receba atendimento individualizado e humanizado.",
+    "image": {
+      "url": "images/features/maos.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Acompanhamento Integral",
+    "description": "Nós não deixamos você na mão. Vamos até o final para te trazer a melhor solução, independentemente de quão longo seja o caminho. Entre em contato agora mesmo!",
+    "image": {
+      "url": "images/features/conversa.png",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

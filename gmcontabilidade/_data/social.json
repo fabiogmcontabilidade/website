@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Email",
+    "link": "mailto:contato@gmcontabilidade.com.br",
+    "image": "images/social/email.svg"
+  },
+  {
+    "name": "Telefone",
+    "link": "tel:+55112721-5399",
+    "image": "images/social/telefone.svg"
+  },
+  {
+    "name": "WhatsApp",
+    "link": "https://api.whatsapp.com/send?phone=+5511994605617",
+    "image": "images/social/whatsapp.svg"
+  },
+  {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/",
+    "image": "images/social/linkedin.svg"
+  }
+]
