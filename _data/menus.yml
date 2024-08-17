@@ -14,7 +14,7 @@ main:
 
 footer:
   - name: "Início"
-    url: "/mihhalvess/"
+    url: "/"
     weight: 1
   - name: "Contato"
     url: "/contact/"
