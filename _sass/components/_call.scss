@@ -34,9 +34,11 @@
     font-size: 1.1rem;
     font-weight: bold;
   }
-  .call-phone {
-    margin-bottom: 5px;
+  .call-phone a {
+    color: black !important; /* Garantindo a cor preta para links */
   }
+  
+  
   .call-email {
     a {
       color: $black;
