@@ -4,7 +4,7 @@ layout: contact
 description: Contact
 ---
 
-O escritório está localizado na Av. Paulista, nº 1471, Conj. 511, CEP: 01311-927, Bela Vista, São Paulo. Para melhor atendê-lo, solicitamos que agende sua visita conosco nos seguintes horários:
+O escritório está localizado na Av. Paulista, nº 1471, Conj. 511, Bela Vista, São Paulo. Para melhor atendê-lo, solicitamos que agende sua visita conosco nos seguintes horários:
 
 
 
