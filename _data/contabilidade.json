@@ -1,0 +1,57 @@
+[
+    {
+      "title": "Economia de tempo e dinheiro",
+      "description": "Ter um contador especializado significa economia de tempo e dinheiro em comparação com a contratação de um profissional interno ou a realização dos serviços por conta própria.",
+      "image": {
+        "url": "images/features/economia.png",
+        "width": 80,
+        "height": 80
+      }
+    },
+    {
+      "title": "Tranquilidade",
+      "description": "Com a GM Contabilidade, terá a certeza que as suas finanças estarão em boas mãos, permitindo que você foque no seu trabalho e tenha mais tranquilidade em relação à gestão financeira do seu negócio.",
+      "image": {
+        "url": "images/features/tranquilidade.png",
+        "width": 80,
+        "height": 80
+      }
+    },
+    {
+      "title": "Gestão financeira completa",
+      "description": "Oferecemos suporte para a gestão das receitas, despesas e fluxo de caixa da sua empresa, permitindo que você se concentre no seu negócio.",
+      "image": {
+        "url": "images/features/gestao.png",
+        "width": 80,
+        "height": 80
+      }
+    },
+    {
+      "title": "Menos burocracia",
+      "description": "Cuidamos de toda a parte burocrática, como apuração de impostos, emissão de notas fiscais e entrega de declarações.",
+      "image": {
+        "url": "images/features/burocracia.png",
+        "width": 80,
+        "height": 80
+      }
+    },
+    {
+      "title": "Conformidade com as leis fiscais",
+      "description": "Nossos serviços garantem que sua gestão financeira esteja em ordem e em conformidade com as leis fiscais.",
+      "image": {
+        "url": "images/features/leis.png",
+        "width": 80,
+        "height": 80
+      }
+    },
+    {
+      "title": "Orientação estratégica",
+      "description": "Com a GM Contabilidade você terá suporte para tomadas de decisões e aumento da rentabilidade do seu negócio.",
+      "image": {
+        "url": "images/features/orientacao.png",
+        "width": 80,
+        "height": 80
+      }
+    }
+  ]
+  

@@ -18,10 +18,10 @@
     }
   },
   {
-    "title": "CRIMINAL",
-    "description": " Estamos ao seu lado em situações jurídicas criminais, fornecendo suporte completo e comprometido para defender seus direitos e buscar a melhor solução para sua situação.",
+    "title": "TRIBUTÁRIO",
+    "description": "Oferecemos consultoria e suporte jurídico na área tributária, ajudando empresas e indivíduos a navegarem pela complexidade das leis fiscais, garantindo conformidade e otimização tributária.",
     "image": {
-      "url": "images/features/criminal.png",
+      "url": "images/features/tributario.png",
       "width": 80,
       "height": 80
     }
