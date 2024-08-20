@@ -1,7 +1,7 @@
 [
     {
       "title": "Economia de tempo e dinheiro",
-      "description": "Ter um contador especializado significa economia de tempo e dinheiro em comparação com a contratação de um profissional interno ou a realização dos serviços por conta própria.",
+      "description": "Ter um contador dedicado significa economia de tempo e dinheiro em comparação com a contratação de um profissional interno ou a realização dos serviços por conta própria.",
       "image": {
         "url": "images/features/economia.png",
         "width": 80,
@@ -18,7 +18,7 @@
       }
     },
     {
-      "title": "Gestão financeira completa",
+      "title": "Gestão financeira",
       "description": "Oferecemos suporte para a gestão das receitas, despesas e fluxo de caixa da sua empresa, permitindo que você se concentre no seu negócio.",
       "image": {
         "url": "images/features/gestao.png",

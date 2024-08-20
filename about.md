@@ -11,11 +11,6 @@ Estamos comprometidos em fornecer serviços contábeis precisos e confiáveis, a
 
 Na GM Contabilidade e Advocacia, valorizamos a transparência, a ética e a confiança. Nosso objetivo é estabelecer relacionamentos sólidos e duradouros com nossos clientes, baseados na integridade e na prestação de serviços excepcionais em ambas as áreas.
 
-Se você está procurando um contador e advogado dedicado e comprometido com o seu sucesso, entre em contato conosco hoje mesmo. 
-
-
-
-
 
 
 

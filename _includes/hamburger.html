@@ -21,7 +21,7 @@
       font-size: 17px;
     }
 
-    .topnav a:hover {
+     .topnav a.active {
       background-color: #ddd;
       color: #36688d;
     }
@@ -63,11 +63,11 @@
 <body>
 
 <div class="topnav" id="myTopnav">
-  <a href="/" class="active">Início</a>
-  <a href="/services/">Advocacia</a>
-  <a href="/team/">Contabilidade</a>
-  <a href="/about/">Sobre nós</a>
-  <a href="/contact/">Contato</a>
+  <a href="/" id="home">Início</a>
+  <a href="/services/" id="services">Advocacia</a>
+  <a href="/team/" id="team">Contabilidade</a>
+  <a href="/about/" id="about">Sobre nós</a>
+  <a href="/contact/" id="contact">Contato</a>
   <a href="javascript:void(0);" class="icon" onclick="toggleMenu()">
     <i class="fa fa-bars"></i>
   </a>
@@ -82,6 +82,20 @@ function toggleMenu() {
     x.className = "topnav";
   }
 }
+
+document.addEventListener('DOMContentLoaded', function() {
+  var currentPath = window.location.pathname;
+  var navLinks = document.querySelectorAll('.topnav a');
+  
+  navLinks.forEach(function(link) {
+    // Verifica se o href do link corresponde ao caminho atual
+    if (link.getAttribute('href') === currentPath) {
+      link.classList.add('active');
+    } else {
+      link.classList.remove('active');
+    }
+  });
+});
 </script>
 
 </body>
