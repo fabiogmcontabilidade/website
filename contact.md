@@ -8,7 +8,7 @@ O escritório está localizado na Av. Paulista, nº 1471, Conj. 511, Bela Vista,
 
 | Horário de Funcionamento |
 | --------- | ------------------------ |
-| Segunda a sexta | 9:00am ás 18:00    |
+| Segunda a sexta | 9:00 ás 18:00    |
 
 
 <h2>Localização</h2>
