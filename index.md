@@ -10,4 +10,4 @@ show_call_box: true
 
 # GM Contabilidade & Advocacia.
 
-Aqui, unimos expertise em contabilidade e advocacia para oferecer soluções completas e personalizadas para suas necessidades jurídicas e financeiras. Navegue em nosso site para descobrir como podemos ajudá-lo a alcançar seus objetivos com confiança e eficiência. Seja bem-vindo à nossa comunidade de excelência em serviços profissionais.
+Unindo contabilidade e advocacia, oferecemos soluções jurídicas e financeiras completas e personalizadas. Descubra como podemos ajudá-lo a alcançar seus objetivos com confiança e eficiência. 
